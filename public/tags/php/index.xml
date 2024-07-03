@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Php on Joao&#39;s blog</title>
-    <link>//localhost:1313/tags/php/</link>
+    <link>/tags/php/</link>
     <description>Recent content in Php on Joao&#39;s blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/php/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Instalando e configurando scriptcase no linux</title>
-      <link>//localhost:1313/instalandoeconfigurandoscriptcase/</link>
+      <link>/instalandoeconfigurandoscriptcase/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/instalandoeconfigurandoscriptcase/</guid>
-      <description></description>
+      <guid>/instalandoeconfigurandoscriptcase/</guid>
+      <description>Step 1. Instalando o scriptcase Acesse o site do scriptcase e baixe a versão para linux, após o download, descompacte o arquivo e execute o arquivo de instalação.</description>
     </item>
   </channel>
 </rss>
