@@ -1,0 +1,18 @@
+baseurl = "/"
+title = "Joao's blog"
+theme = "ghostwriter"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "João Curcino"
+    description = "Blog about software development, technology and other stuff."
+    github = "https://github.com/JoaoPec"
+    linkedin = "https://linkedin.com/in/joão-curcino-490601262"
+    email = "joaopecurcino.dev@gmail.com"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    post = "/:filename/"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scriptcase on Joao&#39;s blog</title>
+    <link>//localhost:1313/tags/scriptcase/</link>
+    <description>Recent content in Scriptcase on Joao&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/scriptcase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instalando e configurando scriptcase no linux</title>
+      <link>//localhost:1313/instalandoeconfigurandoscriptcase/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/instalandoeconfigurandoscriptcase/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
