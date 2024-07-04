@@ -14,5 +14,10 @@ theme = "ghostwriter"
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
 
+[params.meta]
+    author = "João Curcino"
+    keywords = "software, development, technology, blog"
+    favicon = true
+
 [Permalinks]
     post = "/:filename/"

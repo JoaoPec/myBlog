@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Joao&#39;s blog</title>
-    <link>//localhost:1313/post/</link>
-    <description>Recent content in Posts on Joao&#39;s blog</description>
+    <title>Hipertrofia on Joao&#39;s blog</title>
+    <link>//localhost:1313/categories/hipertrofia/</link>
+    <description>Recent content in Hipertrofia on Joao&#39;s blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/categories/hipertrofia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Minha rotina de treino full body</title>
       <link>//localhost:1313/minharotinadetreino/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/minharotinadetreino/</guid>
       <description>Protocolo treino full-body 3 dias na semana Este protocolo visa alternar os grupos musculares treinados no início de cada dia:&#xA;3 séries de 8 a 12 repetições Descanso de 2 a 3 minutos entre séries Exercícios para as Pernas Agachamento Panturrilha escada Peso morto romeno (halteres) Peito, Deltoide Anterior e Tríceps: Supino plano Supino inclinado Costas e Biceps Remada horizontal com triângulo Puxada alta (Pull down) Cronograma - Que dia começa com qual Segunda-feira: Pernas Quarta-feira: Peito Sexta-feira: Costas Referencias: breakingmylimits </description>
-    </item>
-    <item>
-      <title>Instalando e configurando scriptcase no linux</title>
-      <link>//localhost:1313/instalandoeconfigurandoscriptcase/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/instalandoeconfigurandoscriptcase/</guid>
-      <description>Step 1. Instalando o scriptcase Acesse o site do scriptcase e baixe a versão para linux, após o download, descompacte o arquivo e execute o arquivo de instalação.</description>
     </item>
   </channel>
 </rss>
